@@ -29,8 +29,8 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 ## Usage
 1. Clone the repository and open the Jupyter Notebook:
     ```bash
-    git clone https://github.com/nikhuldahiyaa/customer-segmentation.git
-    cd customer-segmentation
+    git clone https://github.com/nikhildahiyaa/Customer-Segmentation-Using-RFM-and-K-Means-Clustering.git
+    cd Customer-Segmentation-Using-RFM-and-K-Means-Clustering
     ```
 2. Open `Final_Segmentation_with_Comments.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run each cell to execute the analysis, visualize data, and interpret clustering results.
